@@ -1,7 +1,6 @@
 package com.sep.basic.Day1;
 import java.io.File;
 import static org.hamcrest.Matchers.*;
-vvvv
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
